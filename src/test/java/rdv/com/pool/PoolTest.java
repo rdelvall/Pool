@@ -20,25 +20,6 @@ import rdv.com.pool.util.task.TaskQueue;
  */
 public class PoolTest {
 
-    public PoolTest() {
-    }
-
-    @BeforeClass
-    public static void setUpClass() {
-    }
-
-    @AfterClass
-    public static void tearDownClass() {
-    }
-
-    @Before
-    public void setUp() {
-    }
-
-    @After
-    public void tearDown() {
-    }
-
     /**
      * Test of main method, of class Pool.
      */
